@@ -62,14 +62,6 @@ The **Sprague-Grundy Theorem** generalizes Nim by showing that every impartial g
 
 ---
 
-## Features of This Repository
-
-1. **Solver**: Calculates optimal moves for any given Nim configuration.
-2. **Simulator**: Play Nim interactively against a machine that uses optimal strategies.
-3. **Configurable Input**: Supports various initial heap configurations.
-
----
-
 ## Running the Game
 
 ### Requirements
